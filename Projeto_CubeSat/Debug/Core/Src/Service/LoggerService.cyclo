@@ -1,0 +1,5 @@
+../Core/Src/Service/LoggerService.c:16:6:LoggerService_LogBMPData	1
+../Core/Src/Service/LoggerService.c:26:6:LoggerService_LogAccelData	1
+../Core/Src/Service/LoggerService.c:36:6:LoggerService_LogGyroData	1
+../Core/Src/Service/LoggerService.c:44:6:LoggerService_ClearBmpLogFile	1
+../Core/Src/Service/LoggerService.c:49:13:FormatLogLine	1

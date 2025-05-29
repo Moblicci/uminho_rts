@@ -50,3 +50,37 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# STM32CubeIDE project files to ignore
+
+# Build and binary output folders
+/Debug/
+/Release/
+/build/
+/out/
+/bin/
+/Objects/
+
+# Eclipse & STM32CubeIDE local settings
+.settings/
+.project
+.cproject
+.metadata/
+*.launch
+*.log
+
+# Backup and temporary files
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+*.user
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: if using CubeMX separately
+*.ioc-backup
